@@ -44,3 +44,4 @@ Currently focused on bridging traditional full-stack engineering with **Generati
 
 * 💼 **LinkedIn:** [linkedin.com/in/wilmer-andrey-caceres-carvajal](https://www.linkedin.com/in/wilmer-andrey-caceres-carvajal-b23751245)
 * 📧 **Email:** wilmercaceres.wcc@gmail.com
+* 📑 **CV:** [wilmer.cv.com](https://mixed-amaryllis-963.notion.site/Wilmer-Caceres-3b95d14f9a1b80f7858ef7efc91e2cf1?source=copy_link)
