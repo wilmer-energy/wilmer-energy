@@ -1,34 +1,35 @@
-# Hi there, I'm Wilmer Andrey Caceres Carvajal 👋
+# Hi there, I'm Wilmer Caceres 👋
 ### Senior Full-Stack Engineer & AI Solutions Architect
 
-Senior Software Engineer with **4+ years of experience** architecting and building scalable SaaS platforms for the U.S. market. Specialized in designing high-performance backend systems using **Node.js (NestJS)** and **Python (FastAPI)**, applying Clean Architecture and SOLID principles. 
+Senior Full-Stack Engineer with **4+ years of experience** architecting and building scalable, end-to-end SaaS platforms for the U.S. market. Expert at delivering complete software solutions, from robust backend architectures with **Node.js (NestJS)** and **Python (FastAPI)** to high-performance web and mobile interfaces using **React, Next.js, and React Native**.
 
-Currently focused on bridging traditional software engineering with **Generative AI workflows**, optimizing LLM orchestration, agentic capabilities, and cost-effective cloud architectures.
+Currently focused on bridging traditional full-stack engineering with **Generative AI workflows**, optimizing LLM orchestration, agentic capabilities, and cost-effective cloud architectures across the entire application lifecycle.
 
 ---
 
 ## 🚀 Core Expertise
 
-- **AI Engineering:** Generative AI Integration, LLM Orchestration, Prompt Engineering, Agentic Workflows, Audio-to-Text Pipeline Design.
-- **Backend Architecture:** Node.js (NestJS), Python (FastAPI), Modular Monoliths, Hexagonal Architecture, RESTful APIs, Event-Driven Systems (Queue Systems, Redis).
-- **Cloud & Infrastructure:** Docker, AWS (EC2, S3, RDS), DigitalOcean, CI/CD Pipelines, System Optimization.
+- **AI Engineering:** Generative AI Integration, Retrieval-Augmented Generation (RAG), LLM Orchestration, Prompt Engineering, Agentic Workflows, Audio-to-Text Pipeline Design.
+- **Backend & Architecture:** Node.js (NestJS), Python (FastAPI), Modular Monoliths, Hexagonal Architecture, RESTful APIs, Event-Driven Systems.
+- **Frontend & Mobile:** React, Next.js, React Native, Responsive UI/UX Systems.
+- **Cloud & Infrastructure:** Docker, AWS (EC2, S3, RDS), DigitalOcean, CI/CD Pipelines, Cost Optimization.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 💰 [AI Personal Expenses Tracker](TU_LINK_DE_GITHUB_AQUI)
-* **Stack:** Python (FastAPI), Generative AI (LLMs), Pydantic, PostgreSQL.
-* **The Solution:** A production-ready asynchronous backend that enables users to log financial expenses using voice notes. The pipeline ingests audio, utilizes Generative AI to parse, structure, and categorize the transactional data, and validates it natively to prevent hallucinations before persistent storage.
+### 💰 [AI Personal Expenses Tracker](https://expenses-tracker.mi-energia.online)
+* **Stack:** Python (FastAPI), React/Next.js, Generative AI (LLMs), Pydantic, PostgreSQL.
+* **The Solution:** A full-stack, asynchronous financial application that enables users to log expenses using voice notes. Engineered the end-to-end flow: an intuitive React frontend captures audio, transmits it to a high-performance FastAPI backend, utilizes Generative AI to parse/categorize data, and validates it natively to prevent hallucinations before persistent storage.
 * **Key Focus:** Latency optimization, robust prompt engineering, and LLM API cost management.
 
-### 🚛 [Reciclapp — B2B SaaS Logistics Platform](TU_LINK_DE_GITHUB_AQUI)
+### 🚛 [Reciclapp — B2B SaaS Logistics Platform](https://admin.mi-energia.online/sign-in)
 * **Stack:** Next.js (React), Node.js, Docker, DigitalOcean, Nginx.
-* **The Solution:** Co-founded and engineered a green-tech B2B logistics MVP from scratch in just 3 months by accelerating development workflows with AI-assisted tools. Built a route optimization algorithm and real-time analytics dashboard that cut travel times and fuel consumption for field operators.
+* **The Solution:** Co-founded and engineered an end-to-end green-tech logistics MVP from scratch in just 3 months by accelerating development workflows with AI-assisted tools. Built a high-performance administrative dashboard in Next.js/React and integrated a route optimization algorithm that reduced travel times for field operators.
 
-### 📱 [Mi Energía — IoT Mobile Application](TU_LINK_DE_GITHUB_AQUI)
+### 📱 [Mi Energía — IoT Mobile Application](https://github.com/ENERGIAPP)
 * **Stack:** React Native, Tuya Smart API, Node.js, Integration Testing.
-* **The Solution:** Full-stack mobile application that integrates third-party smart-home hardware via the Tuya API to monitor real-time energy telemetry. Successfully validated in a live pilot across multiple households to achieve measurable electricity savings through predictive simulation.
+* **The Solution:** An end-to-end mobile application built with React Native that integrates third-party smart-home hardware via the Tuya API to monitor real-time energy telemetry. Successfully validated in a live pilot across multiple households to achieve measurable electricity savings through an in-app predictive consumption simulator.
 
 ---
 
